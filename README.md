@@ -1,2 +1,2 @@
 # reverse_array
-Create a fucntion that reverses an array
+Create a function that reverses an array
