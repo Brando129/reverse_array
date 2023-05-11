@@ -1,4 +1,4 @@
-// Create a fucntion that reverses an array
+// Create a function that reverses an array
 
 function reverse(arr) {
 	return arr.reverse();
